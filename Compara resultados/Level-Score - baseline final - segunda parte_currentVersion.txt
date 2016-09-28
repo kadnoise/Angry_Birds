@@ -1,0 +1,22 @@
+Level 1 Score: 47230 qtd de restarts: 1
+Level 2 Score: 45160 qtd de restarts: 0
+Level 3 Score: 95170 qtd de restarts: 2
+Level 4 Score: 52570 qtd de restarts: 0
+Level 5 Score: 66220 qtd de restarts: 0
+Level 6 Score: 57770 qtd de restarts: 1
+Level 7 Score: 44370 qtd de restarts: 1
+Level 8 Score: 40950 qtd de restarts: 0
+Level 9 Score: 42330 qtd de restarts: 0
+Level 10 Score: 28320 qtd de restarts: 1
+Level 11 Score: 93820 qtd de restarts: 3
+Level 12 Score: 45580 qtd de restarts: 6
+Level 13 Score: 62930 qtd de restarts: 0
+Level 14 Score: 49080 qtd de restarts: 0
+Level 15 Score: 35470 qtd de restarts: 13
+Level 16 Score: 56610 qtd de restarts: 7
+Level 17 Score: 30750 qtd de restarts: 9
+Level 18 Score: 52960 qtd de restarts: 2
+Level 19 Score: 41170 qtd de restarts: 0
+Level 20 Score: 27720 qtd de restarts: 10
+Level 21 Score: 60110 qtd de restarts: 36
+Total Score: 1076290
